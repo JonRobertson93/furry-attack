@@ -1,5 +1,5 @@
 # furry-attack
-<a href="furry-attack.surge.sh">furry-attack.surge.sh</a>
+Visit furry-attack.surge.sh to view the live site.
 <br />
 <ul>
   <li>This website was a comissioned site for a local artist who wished to showcase her work. </li>
