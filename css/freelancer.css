@@ -140,6 +140,14 @@ section h2 {
   padding: 0.8rem;
 }
 
+#contactForm {
+  border: 2px solid #21252980;
+  padding: 0 2em;
+}
+
+
+/*RESPONSIVE*/
+
 @media (min-width: 992px) {
   #mainNav {
     padding-top: 1.5rem;
@@ -278,7 +286,7 @@ header.masthead h2 {
 
 .floating-label-form-group {
   position: relative;
-  border-bottom: 1px solid #e9ecef;
+  border-bottom: 1px solid #909294;
 }
 
 .floating-label-form-group input,
